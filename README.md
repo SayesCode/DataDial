@@ -1,6 +1,6 @@
 # DataDial
 
-O **DataDial** é uma aplicação C# que permite validar números de telefone, identificar se são válidos ou inválidos, obter informações sobre o número (como o código do país e o formato internacional), além de verificar se o número está associado a listas de SPAM. A aplicação também realiza uma busca online com Dorks para informações adicionais.
+O **DataDial** é uma aplicação C# que permite validar números de telefone, identificar se são válidos ou inválidos, obter informações sobre o número (como o código do país e o formato internacional), além de verificar se o número está associado a listas de SPAM. A aplicação também realiza uma busca online com Google Dorks para informações adicionais.
 
 ## Funcionalidades
 
